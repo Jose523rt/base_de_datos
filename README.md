@@ -29,4 +29,4 @@ Este cambio se realizó para evitar redundancia, simplificar las relaciones y ma
 [Modelo Relacional](https://erd.dbdesigner.net/designer/schema/1761185480-diagrama-kduco)
 
 ## Enlace al Diagrama Entidad-Relación
-[Diagrama Entidad-Relación](https://app.diagrams.net/#G1QOOxHLScfG8agUZEldGJBlOakHk3wI_6#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D)
+[Diagrama Entidad-Relación](https://drive.google.com/file/d/1QOOxHLScfG8agUZEldGJBlOakHk3wI_6/view)
