@@ -21,6 +21,10 @@ Se ajustaron elementos esenciales en la base de datos dando a lugar otra de nues
 ### 19 de noviembre
 Se realizaron cambios en nuestros modelos (MER y entidad-relación) dando a lugar a nuestra versión más actual de nuestra base de datos, realizando las correcciones necesario en cuanto a nuestros tipos de datos, primary keys y foreing keys. 
 
+### 4 de diciembre
+Se eliminaron el campo producto_id y sus respectivas llaves foráneas de las tablas categoria_productos, producto_marca y caducidad.
+Este cambio se realizó para evitar redundancia, simplificar las relaciones y mantener un modelo más limpio y correctamente normalizado.
+
 ## Enlace al Modelo Relacional
 [Modelo Relacional](https://erd.dbdesigner.net/designer/schema/1761185480-diagrama-kduco)
 
